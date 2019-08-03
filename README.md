@@ -1,5 +1,5 @@
-Idea Plugin Hello World Demo
-=======================
+Idea Plugin Get VirtualFile Content by Path Demo
+================================================
 
 Run plugin in IDEA
 ------------------
@@ -7,6 +7,8 @@ Run plugin in IDEA
 ```
 ./gradlew runIde
 ```
+
+Open "Sample Action", and input file path like `xxx.iml` or `src/some.txt` to content.
 
 Build the plugin to a zip
 -------------------------
